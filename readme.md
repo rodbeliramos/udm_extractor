@@ -6,7 +6,7 @@ This program creates UDM (Unusable Data Masks) files by extracting band 8 from U
 
 ## How it works
 1. Add your udm2 raster files on `data/input`
-2. Run udm_extractor
+2. Run udm_extractor at `app/udm_extractor`
 3. Get your udm raster files on `data/ouput`
 - Yeap! Just like this! :smiley:
 
