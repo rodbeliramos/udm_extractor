@@ -14,3 +14,6 @@ This program creates UDM (Unusable Data Masks) files by extracting band 8 from U
 ```sh
 pip install -r requirements.txt
 ```
+
+## References
+- [UDM 2](https://developers.planet.com/docs/data/udm-2/)
